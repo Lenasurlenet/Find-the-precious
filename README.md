@@ -1,8 +1,8 @@
 # Find the precious
 
-#Challenge
+## Challenge
 
-##Consignes
+## Consignes
 
 D'après la maquette fournie, crée les différentes parties du site findThePrecious.com en utilisant les balises HTML appropriées.
 
@@ -11,7 +11,7 @@ N'inclus pas de CSS (tu verras ça dans une prochaine quête), le but ici n'est 
 
 Poste ta solution sur Gist.
 
-##Critères de validation
+## Critères de validation
 
 Utilisation des balises sémantiques de manière appropriée (header / footer / section...)
 Présence d'une balise <head> correctement structurée (title, meta...)
